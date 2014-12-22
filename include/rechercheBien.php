@@ -19,7 +19,7 @@
 
 <?php
 
-
+echo $_POST['someName'];
 if (isset($_POST['arecherche']))
 {
 	//$resultdetail[0]="";
